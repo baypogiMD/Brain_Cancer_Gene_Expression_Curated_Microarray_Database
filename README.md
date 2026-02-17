@@ -4,6 +4,8 @@
 This repository provides a full SQL + Python analytical pipeline for
 the CuMiDa Brain Cancer Gene Expression dataset (GSE50161).
 
+  https://www.kaggle.com/datasets/brunogrisci/brain-cancer-gene-expression-cumida  
+
 The dataset contains high-dimensional microarray gene expression data
 for five brain tissue classes:
 - Glioblastoma
